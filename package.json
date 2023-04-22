@@ -1,0 +1,25 @@
+{
+  "name": "auth-api-server",
+  "version": "0.0.0",
+  "description": "Node Api Server for test auth purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoubleFacess/node-auth-api.git"
+  },
+  "keywords": [
+    "node",
+    "auth",
+    "api",
+    "backend"
+  ],
+  "author": "double.facessss@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoubleFacess/node-auth-api/issues"
+  },
+  "homepage": "https://github.com/DoubleFacess/node-auth-api#readme"
+}
